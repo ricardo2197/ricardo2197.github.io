@@ -1,8 +1,6 @@
 <h1>CTF interesting writeups  & more. </h1>
 
 
-<li>[babystack -0ctf] (return-to-dl.md)
-Return-to dl-resolve method.
-</li>
+<a hfref="return-to-dl.md"><li>[babystack -0ctf] Return-to dl-resolve method. </li></a>
 
 
